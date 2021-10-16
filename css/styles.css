@@ -7,7 +7,9 @@
 }
 
 body{
-	font-family: "Railway", sans-serif;
+	width: 1440px;
+	margin: 0 auto;
+	font-family: "Raleway", sans-serif;
 }
 
 ul{
@@ -45,7 +47,7 @@ header{
 	margin-left: 20px;
 }
 
-ul{
+header ul{
 	display: flex;
 	width: 300px;
 	height: 100px;
@@ -127,7 +129,7 @@ input:focus{
 }
 
 ::placeholder{
-	font-family: "Railway", sans-serif;
+	font-family: "Raleway", sans-serif;
 	font-weight: bold;
 	color: #000;
 }
