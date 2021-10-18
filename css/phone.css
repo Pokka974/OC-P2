@@ -125,9 +125,15 @@ form{
     width: 100%;
     min-width: 320px;
     border-radius: 0;
-
 }
 
+#popular figure{
+    width: 24%;
+}
+
+.pop-card-infos{
+    margin: 15px 0 10px 15px;
+}
 /* Activités */
 
 #activite{
@@ -149,8 +155,8 @@ form{
     width: 100%;
 }
 
-.large-card img{
-	height: 80%;
+#cards-activites img{
+	height: 180px;
 }
 
 /* Footer */

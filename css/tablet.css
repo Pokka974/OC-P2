@@ -1,3 +1,8 @@
+body{
+    width: initial;
+}
+
+/* Filter */
 
 .filter{
     margin:10px 10px 0 0;
@@ -23,6 +28,10 @@
 
 #popular{
     width: 100%;
+}
+
+#popular figure{
+    width: 9%;
 }
 
 /* Activités */
